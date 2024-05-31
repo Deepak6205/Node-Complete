@@ -59,7 +59,7 @@ console.log(person.isStudent);
 console.log(person.hobbies);
 
 // filter function.
-//q:- find the and which is less then eual to 18. -> so ye basically kya karega ki har element ko check karega i.e filter akrega fir ans dega.
+//q:- find the age which is less then eual to 18. -> so ye basically kya karega ki har element ko check karega i.e filter akrega fir ans dega.
 //similarly iissi tarah ke question banao;
 
 const ages = [32,25,18,16,12,14,13,9,17];
